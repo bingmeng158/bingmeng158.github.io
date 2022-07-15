@@ -10,12 +10,13 @@ WIDGET = {
       "aqiSize": "16",
       "weatherIconSize": "24",
       "alertIconSize": "18",
-      "padding": "10px 10px 10px 10px",
+      "padding": "6px 20px 6px 20px",
       "shadow": "0",
       "language": "auto",
+      "borderRadius": "5",
       "fixed": "false",
       "vertical": "top",
       "horizontal": "left",
-      "key": "27042a1cc3ed4bca949b2151c90b5b23"
+      "key": "1b37294998554f06932d19133263dc6c"
     }
   }
